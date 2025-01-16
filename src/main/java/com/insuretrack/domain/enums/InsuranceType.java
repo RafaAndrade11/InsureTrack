@@ -1,4 +1,4 @@
-package com.insuretrack;
+package com.insuretrack.domain.enums;
 
 public enum InsuranceType {
     VEICULAR,

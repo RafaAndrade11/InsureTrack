@@ -1,4 +1,4 @@
-package com.insuretrack.domain;
+package com.insuretrack.domain.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

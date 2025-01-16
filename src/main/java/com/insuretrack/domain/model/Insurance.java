@@ -1,13 +1,11 @@
-package com.insuretrack.domain;
+package com.insuretrack.domain.model;
 
-import com.insuretrack.InsuranceType;
+import com.insuretrack.domain.enums.InsuranceType;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-
-import java.util.Date;
 
 @Entity
 @Table(name = "tb_insurance")
